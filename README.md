@@ -43,6 +43,4 @@ This project is intended for:
 📁 Contents
 - notebook/ — Python notebook for data analysis and cleaning
 
-- dashboard/ — Power BI file for data visualization
-
 - data/ — Raw and processed 
